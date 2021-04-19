@@ -1,0 +1,10 @@
+D:\XII\UKK\Maulana Reza_BetaMart\Maulana Reza_BetaMart\bin\Debug\Maulana Reza_BetaMart.exe.config
+D:\XII\UKK\Maulana Reza_BetaMart\Maulana Reza_BetaMart\bin\Debug\db_barang.accdb
+D:\XII\UKK\Maulana Reza_BetaMart\Maulana Reza_BetaMart\bin\Debug\Maulana Reza_BetaMart.exe
+D:\XII\UKK\Maulana Reza_BetaMart\Maulana Reza_BetaMart\bin\Debug\Maulana Reza_BetaMart.pdb
+D:\XII\UKK\Maulana Reza_BetaMart\Maulana Reza_BetaMart\obj\Debug\Maulana_Reza_BetaMart.Form1.resources
+D:\XII\UKK\Maulana Reza_BetaMart\Maulana Reza_BetaMart\obj\Debug\Maulana_Reza_BetaMart.Properties.Resources.resources
+D:\XII\UKK\Maulana Reza_BetaMart\Maulana Reza_BetaMart\obj\Debug\Maulana Reza_BetaMart.csproj.GenerateResource.Cache
+D:\XII\UKK\Maulana Reza_BetaMart\Maulana Reza_BetaMart\obj\Debug\Maulana Reza_BetaMart.exe
+D:\XII\UKK\Maulana Reza_BetaMart\Maulana Reza_BetaMart\obj\Debug\Maulana Reza_BetaMart.pdb
+D:\XII\UKK\Maulana Reza_BetaMart\Maulana Reza_BetaMart\obj\Debug\Maulana Reza_BetaMart.csprojResolveAssemblyReference.cache
